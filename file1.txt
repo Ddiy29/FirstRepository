@@ -1,6 +1,6 @@
 Hello!!! 
 Bug fixed
 User2 change this file
-Supreme
+Supreme is good
 Good evening (from branch master)
 
